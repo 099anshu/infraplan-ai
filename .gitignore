@@ -1,0 +1,10 @@
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+scraper/node_modules/
+backend/.env
+frontend/dist/
+scraper/training_data.jsonl
+scraper/training_data_preview.json
+.DS_Store
+*.log
